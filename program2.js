@@ -2,7 +2,7 @@ const decodeTheRing = function (s, p) {
 
     // write your code here
 
-   unorderedmap
+   unorderedmap<char ,char> sol
 
 
   };
